@@ -1,8 +1,8 @@
 {
-  "name": "@shotor/ts-gql-sdk",
-  "version": "1.0.8",
+  "name": "@mediamartin/ts-gql-sdk",
+  "version": "1.0.11",
   "description": "Generate a complete GraphQL SDK from schema, generating all queries/mutations/subscriptions along the way.",
-  "homepage": "https://github.com/shotor/ts-gql-sdk-gen#readme",
+  "homepage": "https://github.com/mediamartin/ts-gql-sdk-gen#readme",
   "author": "shotor",
   "main": "dist/index.js",
   "bin": {
@@ -40,9 +40,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shotor/ts-gql-sdk-gen.git"
+    "url": "git+https://github.com/mediamartin/ts-gql-sdk-gen.git"
   },
   "bugs": {
-    "url": "https://github.com/shotor/ts-gql-sdk-gen/issues"
+    "url": "https://github.com/mediamartin/ts-gql-sdk-gen/issues"
   }
 }
